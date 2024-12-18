@@ -1,0 +1,1 @@
+This Python script simulates a simple restaurant ordering system. It allows the user to view a menu, select items to order, and calculate the total price of the items selected. The program also includes error handling for invalid menu selections and ensures a seamless ordering experience.
